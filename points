@@ -1,6 +1,9 @@
 #include<cs50.h>
 #include<stdio.h>
 
+//i am a confused boyz 2
+// i am a confused boyz
+
 int main (void)
 {
     int n = get_int("n; ");
